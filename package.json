@@ -1,0 +1,23 @@
+{
+  "name": "learn-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haerul78/Learn-ExpressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haerul78/Learn-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/Haerul78/Learn-ExpressJS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
