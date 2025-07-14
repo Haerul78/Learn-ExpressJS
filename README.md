@@ -1,5 +1,5 @@
 # NodeJS
-NodeJS adalah adalah sebuah runtime yang bisa berjalan di Window, Mac, Linux, dan lain-lain. Ia memungkinkan dapat menjalankan kode JavaScript di luar web browser, juga bisa melakukan pengembangan dari sisi server dengan JavaScript. NodeJS dirancang untuk membangung aplikasi network yang skalalabel secara efisien. \n
+NodeJS adalah adalah sebuah runtime yang bisa berjalan di Window, Mac, Linux, dan lain-lain. Ia memungkinkan dapat menjalankan kode JavaScript di luar web browser, juga bisa melakukan pengembangan dari sisi server dengan JavaScript. NodeJS dirancang untuk membangung aplikasi network yang skalalabel secara efisien.\n
 NodeJS itu menggunakana asynchronous (non-blocking) programming, yang artinya itu tetap bisa berjalan meskipun sedang mengerjakan tugas lain seperti reading file atau berkomunikasi ke database. dengan asynchronous code, NodeJS memungkinkan untuk melakukan banyak dalam satu waktu yang membuat jadi cepat dan efisiensi
 ```
 const fs = require('fs');
