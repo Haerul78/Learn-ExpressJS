@@ -1,11 +1,5 @@
-const fs = require('fs');
-
-fs.readFile('Halo.txt', 'utf-8', (err, data) => {
-    if (err) {
-        console.error('Error reading file: ' + err);
-        return;
-    }
-    console.log('file content: ' + data);
-})
-
-console.log("Reading file...");
+const http = require('http');
+http.createServer((req, res) => {
+    res.writeHead(200,  {'content-type': 'text/plain'});
+    res.end('Hello World');
+}).listen(8080);
