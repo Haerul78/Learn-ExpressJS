@@ -1,7 +1,7 @@
 // app.js
 
-console.log("--- Memulai Simulasi Callback Hell, Promises, dan Async/Await ---");
-console.log("Perhatikan urutan output dan waktu eksekusi.\n");
+// console.log("--- Memulai Simulasi Callback Hell, Promises, dan Async/Await ---");
+// console.log("Perhatikan urutan output dan waktu eksekusi.\n");
 
 // --- Fungsi Simulasi Asinkron ---
 // Fungsi-fungsi ini akan mensimulasikan operasi yang membutuhkan waktu
